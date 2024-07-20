@@ -1,3 +1,5 @@
 
-print("HELLO WORLD!")
+print("KOOL!")
 print("BYE OWLRD!")
+
+print("KOOL KWON!")
